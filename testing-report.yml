@@ -5,10 +5,22 @@
 
 - summary: |
     Проверка доступности обучающего контента на сайте.
-  status: fail
+  status: pass
 
 - summary: |
     Проверка выбора задачи для решения.
+  status: pass
+
+- summary: |
+    Проверка выбора уровня сложности задачи.
+  status: pass
+
+- summary: |
+    Проверка возможности следить за ходом игры.
+  status: pass
+
+- summary: |
+    Проверка возможности общения в чате во время игры.
   status: pass
 
 - summary: |
@@ -25,6 +37,14 @@
 
 - summary: |
     Проверка просмотра кода соперника во время соревнования.
+  status: pass
+
+- summary: |
+    Проверка доступности завершенной игры в виде записи и редактора кода в виде проигрывателя.
+  status: pass
+
+- summary: |
+    Проверка начисления очков пользователю за участие в соревнованиях.
   status: pass
 
 - summary: |
@@ -52,21 +72,5 @@
   status: pass
 
 - summary: |
-    
-  status: pass
-
-- summary: |
-    
-  status: pass
-
-- summary: |
-    
-  status: pass
-
-- summary: |
-    
-  status: pass
-
-- summary: |
-    
+    Проверка доступности задач на двух языках (русский и английский).
   status: pass
